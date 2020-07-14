@@ -1,0 +1,10 @@
+.note-box{
+    padding: 1rem;
+    margin: 2rem;
+    border: 2px solid blue;
+}
+
+.note-text{
+    color: chocolate;
+    margin-bottom: .5rem;
+}
